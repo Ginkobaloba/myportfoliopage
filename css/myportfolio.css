@@ -2,3 +2,33 @@ nav{
 padding-left:20px;
 padding-right:20px;
 }
+body {   
+height:100%;
+width:100%;
+background:black;
+-webkit-background-size: 100% auto;
+-moz-background-size: 100% auto;
+-ms-background-size: 100% auto;
+-o-background-size: 100% auto;
+background-size: 100% auto;
+}
+.articlediv{
+	height:50%;
+	width:50%;
+	position:fixed;
+	left:25%;
+	top:50%;
+	
+}
+H1{
+	color:white;
+}
+header{
+	padding;25%;
+}
+html{
+    height:100%;
+    background-position: fixed;
+    overflow-y: scroll;
+
+}
